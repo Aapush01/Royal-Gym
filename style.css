@@ -25,6 +25,7 @@ html {
 body {
   background: var(--bg-color);
   color: var(--text-color);
+  margin: 0 auto;
 }
 
 section {
@@ -136,7 +137,7 @@ span {
 }
 
 .home-img::before {
-  content: "FITNESS";
+  /* content: "FITNESS"; */
   position: absolute;
   top: 10%;
   left: 30%;
