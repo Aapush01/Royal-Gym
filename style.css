@@ -115,6 +115,11 @@ span {
   align-items: center;
 }
 
+.home-content {
+  display: flex;
+
+}
+
 .home-content h3 {
   font-size: 5rem;
   font-weight: 700;
@@ -133,7 +138,7 @@ span {
 }
 
 .home-img img {
-  width: 45vw;
+  width: 35vw;
 }
 
 .home-img::before {
@@ -507,6 +512,7 @@ span {
   .footer {
     padding: 40px 0;
   }
+  
 }
 
 @media (max-width: 786px) {
@@ -522,6 +528,7 @@ span {
     margin-top: 1.5rem;
   }
   .home-content {
+    flex-direction: column;
     order: 2;
   }
   .home-img img {
@@ -558,10 +565,18 @@ span {
   .services-content {
     grid-template-columns: repeat(auto-fit, minmax(240px, auto));
   }
+  .home-content {
+    flex-direction: column;
+  
+  }
 }
 
 @media (max-width: 450px) {
   html {
     font-size: 50%;
+  }
+  .home-content {
+    flex-direction: column;
+  
   }
 }
