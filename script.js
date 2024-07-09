@@ -14,7 +14,7 @@ window.onscroll = () => {
 //typing style (serach on google typed js)
 
 var typed = new Typed('.multiple-text', {
-    strings: ['Physical Fitness', 'Weight Gain', 'Srength Training','Fat Lose', 'Running' ],
+    strings: ['Physical Fitness', 'Weight Gain', 'Strength Training','Fat Lose', 'Running' ],
     typeSpeed: 60,
     loop: true,
     backDelay: 900,
