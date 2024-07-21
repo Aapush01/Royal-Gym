@@ -41,7 +41,7 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## Contact
 
 - **GitHub**: [Aapush01](https://github.com/Aapush01)
-- **Twitter**: [Aapsuh2](https://twitter.com/Aapsuh2)
+- **Twitter**: [Aapush2](https://twitter.com/Aapush2)
 - **LinkedIn**: [Aapush01](https://www.linkedin.com/in/md-shahidafridi/)
 - **Email**: [mdshahidafridi.lnjpit@gmail.com](mailto:mdshahidafridi.lnjpit@gmail.com)
 
